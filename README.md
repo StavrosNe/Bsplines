@@ -1,6 +1,7 @@
 # B-Spline Fitting
 
 This repository contains code for fitting a B-spline to a dataset, plotting the fit, and displaying the spline subcomponents.
+The B-spline is created and fitted using numpy.
 
 ## Overview
 
